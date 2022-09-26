@@ -6,8 +6,8 @@ public class Boolean {
 		boolean sky = false;
 
 		{
-			System.out.println(akash); // Outputs true
-			System.out.println(sky); // Outputs false
+			System.out.println(akash); // Outputs is true
+			System.out.println(sky); // Outputs is false
 		}
 	}
 }
